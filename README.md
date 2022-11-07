@@ -1,5 +1,5 @@
-# otherScripts
+# DevHut
 
-## Some code in this repo is copyrighted by [APGB 2022-2023](https://github.com/AirplanegoBrr) and [APGB Studios 2022-2023](https://www.roblox.com/groups/3941940/APGBs-Studios)
+All code in here is not made by Terabyte all code is made by community members or mods
 
-### PLEASE add a small tag in your code or project saying "Some code was sorced from APGB"
+You can also add your own scripts just make sure to read [CONTRIBUTING.md](CONTRIBUTING.md) before making a PR!
